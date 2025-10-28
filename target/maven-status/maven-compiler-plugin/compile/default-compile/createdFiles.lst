@@ -1,0 +1,8 @@
+com\enactor\client\model\AvailabilityResponse.class
+com\enactor\client\model\ReservationRequest.class
+com\enactor\servlet\CheckAvailabilityServlet.class
+com\enactor\model\Reservation.class
+com\enactor\service\BusService.class
+com\enactor\model\Seat.class
+com\enactor\servlet\ReserveTicketsServlet.class
+com\enactor\client\model\ReservationResponse.class
